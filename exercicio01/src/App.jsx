@@ -5,7 +5,7 @@ export default function App() {
         <img src="/react.avif" alt="Imagem React" />
       </div>
       <h1>React</h1>
-      <p>A biblioteca para interfaces de usuário webe nativas.</p>
+      <p>A biblioteca para interfaces de usuário web nativas.</p>
       <p>
         <button>Aprenda React</button>
         <button>Referências de API</button>
